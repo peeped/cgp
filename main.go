@@ -1,17 +1,10 @@
 package main
 
 import (
-	"github.com/peeped/cgp/utils"
 	"flag"
+	"github.com/peeped/cgp/utils"
 	"log"
 	"os"
-	// "path/filepath"
-	// "github.com/beego/bee/cmd"
-	// "github.com/beego/bee/cmd/commands"
-	// "github.com/beego/bee/config"
-	// "github.com/beego/bee/generate/swaggergen"
-	// "github.com/beego/bee/utils"
-	// "fmt"
 )
 
 var (

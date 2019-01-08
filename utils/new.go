@@ -2,10 +2,6 @@ package utils
 
 import (
 	"fmt"
-	// "log"
-	// "go/ast"
-	// "go/parser"
-	// "go/token"
 	"os"
 	"path/filepath"
 	"strings"

@@ -3,10 +3,9 @@ package utils
 import (
 	"fmt"
 	"os"
-	"strings"
-	// "path"
 	"path/filepath"
 	"runtime"
+	"strings"
 )
 
 // IsExist returns whether a file or directory exists.
