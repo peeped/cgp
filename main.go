@@ -1,7 +1,7 @@
 package main
 
 import (
-	"cgp/utils"
+	"github.com/peeped/cgp/utils"
 	"flag"
 	"log"
 	"os"
