@@ -39,9 +39,7 @@ func main() {
 
 	if args[0] == "new" && args[1] != "" {
 		if utils.IsInGOPATH(currentpath) {
-			bee
 			utils.CreateProject(currentpath, args[1])
-
 		} else {
 			log.Println("请将项目创建在GOPATH中")
 			os.Exit(2)
